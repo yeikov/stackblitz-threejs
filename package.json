@@ -1,0 +1,8 @@
+{
+  "name": "typescript-5i4anz",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "three": "^0.108.0"
+  }
+}
